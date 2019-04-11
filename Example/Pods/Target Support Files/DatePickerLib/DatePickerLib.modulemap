@@ -1,0 +1,6 @@
+framework module DatePickerLib {
+  umbrella header "DatePickerLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
